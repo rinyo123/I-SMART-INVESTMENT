@@ -46,7 +46,7 @@
     "Body": {
       "stkCallback": {
         "MerchantRequestID": "26634-13072886-1",
-        "CheckoutRequestID": "ws_CO_28082023153807020741091123",
+        "CheckoutRequestID": "ws_CO_28082023153807020703106046",
         "ResultCode": 0,
         "ResultDesc": "The service request is processed successfully.",
         "CallbackMetadata": {
@@ -119,7 +119,7 @@
     "Body": {
       "stkCallback": {
         "MerchantRequestID": "24709-79653022-1",
-        "CheckoutRequestID": "ws_CO_28082023172402400745179023",
+        "CheckoutRequestID": "ws_CO_28082023172402400703106046",
         "ResultCode": 0,
         "ResultDesc": "The service request is processed successfully.",
         "CallbackMetadata": {
